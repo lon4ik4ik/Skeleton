@@ -1,3 +1,4 @@
+<h1>COOL README</p>
 Skeleton
 ========
 
@@ -10,3 +11,5 @@ Login , Registraion , Shopping Cart , Social and etc...
 The code is written on top of the CakePHP Framework with the MVC pattern.
 
 All Rights Reserved to Eli Polevoy.
+
+
